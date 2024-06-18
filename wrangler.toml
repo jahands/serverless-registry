@@ -9,7 +9,7 @@ routes = ["registry.uuid.rocks/*"]
 r2_buckets = [{ binding = "REGISTRY", bucket_name = "r2-registry" }]
 
 [vars]
-# JWT_REGISTRY_TOKENS_PUBLIC_KEY = ""
+JWT_REGISTRY_TOKENS_PUBLIC_KEY = "eyJrdHkiOiJFQyIsImtleV9vcHMiOlsidmVyaWZ5Il0sImV4dCI6dHJ1ZSwiY3J2IjoiUC0yNTYiLCJ4IjoiZmMxMUdDVHpKU3BfWWtBV3lvQ0lUWHRHY01FaE9PNURRWERjdTlxNmtNUSIsInkiOiJNQjNmUjRyY2lrcWlKc0c2MHBfSHFRcGVjNHhNSUN2dThIWWJ1RjItZnE4In0="
 USERNAME = "jh"
 # PASSWORD= <in secrets>
 
